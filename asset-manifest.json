@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/nike/static/css/main.067269fd.css",
+    "main.js": "/nike/static/js/main.a945e9cf.js",
+    "static/media/1.jpg": "/nike/static/media/1.c0de9032f17fc6f22113.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/nike/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/nike/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/nike/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/womenPoster.jpg": "/nike/static/media/womenPoster.3c5f48909bdab7ff85ff.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/nike/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/nike/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/banner.jpg": "/nike/static/media/banner.6fa2d0998a8fa7e87f9d.jpg",
+    "static/media/6.jpg": "/nike/static/media/6.947e49e0b31168e6faac.jpg",
+    "static/media/BaarSophia.eot": "/nike/static/media/BaarSophia.e5b94ae8a9c1acad3241.eot",
+    "static/media/BaarSophia.ttf": "/nike/static/media/BaarSophia.d324c985e91db75f9f22.ttf",
+    "static/media/menPoster.jpg": "/nike/static/media/menPoster.c2351336668f9f6b94be.jpg",
+    "static/media/4.jpg": "/nike/static/media/4.bbb97054573d45b56de2.jpg",
+    "static/media/jordanLogo.png": "/nike/static/media/jordanLogo.3198d94f8e293fcd1198.png",
+    "static/media/2.jpg": "/nike/static/media/2.a854d4e15921c755237c.jpg",
+    "static/media/3.jpg": "/nike/static/media/3.4d49002114c237c8a22b.jpg",
+    "static/media/7.jpg": "/nike/static/media/7.b86da9664c714ab93eb8.jpg",
+    "static/media/BaarSophia.woff": "/nike/static/media/BaarSophia.f43e675bb6c78c37549d.woff",
+    "static/media/5.jpg": "/nike/static/media/5.251ecea648075806ecb6.jpg",
+    "static/media/BaarSophia.woff2": "/nike/static/media/BaarSophia.3166a646a00002903a30.woff2",
+    "static/media/kidPoster.jpg": "/nike/static/media/kidPoster.19304d963249dd117865.jpg",
+    "index.html": "/nike/index.html",
+    "main.067269fd.css.map": "/nike/static/css/main.067269fd.css.map",
+    "main.a945e9cf.js.map": "/nike/static/js/main.a945e9cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067269fd.css",
+    "static/js/main.a945e9cf.js"
+  ]
+}

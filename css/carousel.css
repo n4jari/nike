@@ -1,0 +1,56 @@
+.carousel .subject {
+  color: #222;
+  font-weight: 500;
+  margin: 0 0 20px 75px;
+}
+
+.carousel .box {
+  max-width: 100%;
+  height: 450px;
+  margin: 0 10px;
+}
+
+.carousel .box .text {
+  color: #333;
+  padding: 8px 0;
+  line-height: 25px;
+}
+
+.carousel .box img {
+  width: 100%;
+  height: auto;
+}
+.carousel .box img:hover {
+  opacity: 0.8;
+  transition: all 0.2s ease-in;
+}
+
+.carousel .price {
+  float: right;
+  margin-right: 5px;
+}
+
+.carousel .style {
+  color: gray;
+}
+@media screen and (max-width: 900px) {
+  .carousel .subject {
+    margin: 10px 0 20px 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .carousel .box {
+    height: 380px;
+  }
+
+  .carousel .subject {
+    text-align: center;
+  }
+
+  .carousel .price {
+    float: none;
+    margin-right: 0;
+    display: block;
+  }
+}

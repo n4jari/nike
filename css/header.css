@@ -1,0 +1,86 @@
+header {
+  background: #f2f2f2;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 13px;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+header .list {
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  grid-row: 20px;
+  width: 15vw;
+  text-align: center;
+  list-style-type: none;
+}
+
+header .list_link {
+  text-decoration: none;
+  color: #444;
+}
+
+header .list_link:hover {
+  opacity: 0.6;
+}
+
+header .converse_logo,
+header .jordan_logo {
+  cursor: pointer;
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+header .jordan_logo {
+  left: 50px;
+}
+
+header .converse_logo {
+  left: 100px;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 900px) {
+  header .list {
+    padding: 0 2.5rem;
+    width: 28vw;
+  }
+
+  header .jordan_logo {
+    left: 60px;
+  }
+
+  header .converse_logo {
+    left: 110px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header .list {
+    font-size: 12px;
+    padding: 0 1rem;
+    width: 45vw;
+  }
+
+  header .jordan_logo {
+    left: 30px;
+  }
+
+  header .converse_logo {
+    left: 80px;
+  }
+
+  header .converse_logo,
+  header .jordan_logo {
+    width: 1.3rem;
+    height: 1.3rem;
+  }
+}

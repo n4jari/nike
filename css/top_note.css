@@ -1,0 +1,8 @@
+.ShoesShop .top_note {
+  font-size: 13px;
+  text-align: center;
+  background: #f3f3f3;
+  color: #333;
+  padding: 1rem .5rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
