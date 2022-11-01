@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Sitka";
+  src: url("../font/SitkaSmall.eot");
+  src: url("../font/SitkaSmall.eot?#iefix") format("embedded-opentype"),
+    url("../font/SitkaSmall.woff2") format("woff2"),
+    url("../font/SitkaSmall.woff") format("woff"),
+    url("../font/SitkaSmall.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
